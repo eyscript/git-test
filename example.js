@@ -1,6 +1,6 @@
 const name='git flow ';
-function sum(a,b){
-	return a+b;
+function sum(x,b){
+	return x+b;
 }
 //git checkout develop
 //git branch -d 
